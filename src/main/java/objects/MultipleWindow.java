@@ -25,3 +25,8 @@ public class MultipleWindow {
     @FindBy(tagName = "h3")
     WebElement newWindow;
 }
+
+
+
+
+
